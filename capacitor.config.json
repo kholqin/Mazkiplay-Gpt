@@ -1,0 +1,6 @@
+{
+       "appId": "com.mazkiplay.gpt",
+       "appName": "MAZKIPLAY GPT",
+       "webDir": ".",
+       "bundledWebRuntime": false
+     }
